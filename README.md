@@ -16,6 +16,7 @@ I am a **B.Tech student in Artificial Intelligence and Data Science** at St. Jos
 - Database Management
 
 ## 📢 Let's Connect
-[![LinkedIn](linkedin.com/in/midhun-prahash-14ab24292)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/midhun-prahash-14ab24292)  
 
 💡 Always eager to collaborate on innovative AI and data-driven projects!
+
