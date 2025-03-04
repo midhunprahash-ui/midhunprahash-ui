@@ -6,23 +6,22 @@ I am a **B.Tech student in Artificial Intelligence and Data Science** at St. Jos
 ## 🔥 What I Do
 - 🔹 **AI & Data Science Enthusiast**: Exploring Machine Learning, Deep Learning, and Generative AI.
 - 🔹 **Tech Community Builder**: Organizing hackathons, mock interviews, and Web3 sessions.
-- 🔹 **Full-Stack Development**: Working on automation, AI-powered applications, and Web3 integrations.
 
-## 💻 Tech Stack
+
+## 💻 PL's Efficient in
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Skills:**
 - Database Management
 - Python & SQL
 - Data Warehousing
-- Data Analysis
+- Computer Vision
 - Big Data Technologies (Hadoop)
 - Generative AI with LLMs
 
 ## 🏆 Coding Platforms
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) [LeetCode Profile](https://leetcode.com/midhun_ai)  
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) [LeetCode Profile](https://leetcode.com/u/midhunprahash/)  
 ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white) [CodeChef Profile](https://www.codechef.com/users/midhun_ai)  
 ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white) [HackerRank Profile](https://www.hackerrank.com/midhun_ai)  
 
