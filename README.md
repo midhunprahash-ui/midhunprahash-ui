@@ -1,4 +1,4 @@
-# Hi there, I'm Midhun Prahash! 👋
+# Hi there, I'm Midhun Prahash! 
 
 ## 🚀 About Me
 I am a **B.Tech student in Artificial Intelligence and Data Science** at St. Joseph's Institute of Technology, passionate about solving real-world challenges with AI, data science, and automation.
