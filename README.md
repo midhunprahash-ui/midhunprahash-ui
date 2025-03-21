@@ -1,8 +1,9 @@
 #  Hi there, 
 ## I'm Midhun Prahash! 
 
-## About Me
-I am a **B.Tech student in Artificial Intelligence and Data Science** at St. Joseph's Institute of Technology, passionate about solving real-world challenges with AI, data science, and automation.
+## Summary
+I like training and partnering with machines to solve the majorly faced challenges, which in turn revolutionize industries,
+enhance efficiency, and drive innovation.
 
 ## Projects
 - **Excela 3.0 Alpha** – Designed and demonstrated the software for a humanoid robot integrated with the ChatGPT API, enabling real-time human interaction and dynamic query resolution using advanced NLP techniques.  
