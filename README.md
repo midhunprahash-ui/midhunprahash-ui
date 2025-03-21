@@ -17,7 +17,7 @@ impression on the product using NLP and provide a visualization of the impressio
 - Database Management
 
 ## 📢 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/midhun-prahash-14ab24292)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/midhun-prahash-14ab24292/)  
 
 💡 Always eager to collaborate on innovative AI and data-driven projects!
 
