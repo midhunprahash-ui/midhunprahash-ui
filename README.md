@@ -42,3 +42,19 @@ I'm passionate about partnering with machines to solve real-world challenges, re
 - [SQL Basics (Skillrack)](https://www.skillrack.com/faces/free/certificate.xhtml?t=cert&id=482693&key=FFY)
 
 ---
+## 🏆 Achievements
+
+- 🥈 **Runner-Up (Top 2 out of 800+ teams)** at **Thoothukudi District Police Hackathon (Cyber Hackathon 2025)**
+  - Won ₹25,000 for a data-driven crime prediction and police deployment solution.
+  - Recognized for innovative use of ARIMA algorithm and real-time analytics.
+
+---
+
+## 📫 Connect with me
+
+- 📧 [midhuntech2023@gmail.com](mailto:midhuntech2023@gmail.com)
+- 🔗 [LinkedIn](http://www.linkedin.com/in/midhun-prahash-14ab24292/)
+
+---
+
+⭐️ *Let's collaborate on projects that make a difference!*  
