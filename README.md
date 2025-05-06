@@ -26,3 +26,9 @@ I'm passionate about partnering with machines to solve real-world challenges, re
   - Scrapes product reviews, summarizes sentiment using NLP, and visualizes customer impressions.
 
 ---
+## 🛠️ Skills
+
+- **Programming:** Python, Java, SQL
+- **Data Science:** Time Series Forecasting, Data Visualization, Machine Learning
+- **Technologies:** Computer Vision, NLP, Basics of LLMs, ARIMA, APIs, LangChain, RAG
+- **Tools:** Pandas, NumPy, Matplotlib, Scikit-learn
