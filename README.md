@@ -1,16 +1,4 @@
 # 👋 Hi, I'm Midhun !
-### 📊 My Coding Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/LeetCode%20Solved-350-orange" alt="LeetCode Solved Badge"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=midhunprahash&show_icons=true&theme=dark" alt="GitHub Stats" width="450"/>
-    </td>
-  </tr>
-</table>
 
 ### 🏅 LeetCode Stats
 <img src="https://leetcard.jacoblin.cool/midhunprahash?theme=dark&ext=heatmap" width="400"/>
