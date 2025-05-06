@@ -32,3 +32,13 @@ I'm passionate about partnering with machines to solve real-world challenges, re
 - **Data Science:** Time Series Forecasting, Data Visualization, Machine Learning
 - **Technologies:** Computer Vision, NLP, Basics of LLMs, ARIMA, APIs, LangChain, RAG
 - **Tools:** Pandas, NumPy, Matplotlib, Scikit-learn
+
+## 📜 Certifications
+
+- [Data Science Methodology (IBM)](https://courses.cognitiveclass.ai/certificates/30720c84c6874a1783604880aefdb97a)
+- [Python 101 for Data Science (IBM)](https://courses.cognitiveclass.ai/certificates/202c332650394476875dcd912b5815b0)
+- [Data Science A-Z (Udemy)](https://ude.my/UC-bc67920a-0176-426d-862b-3d31a85efib)
+- [SQL and Relational Databases 101 (IBM)](https://courses.cognitiveclass.ai/certificates/93085e4a9b8b4fed872d8eb5a9f816d0)
+- [SQL Basics (Skillrack)](https://www.skillrack.com/faces/free/certificate.xhtml?t=cert&id=482693&key=FFY)
+
+---
