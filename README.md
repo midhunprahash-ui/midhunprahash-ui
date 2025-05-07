@@ -3,6 +3,8 @@
 ### 🏅 LeetCode Stats
 <img src="https://leetcard.jacoblin.cool/midhunprahash?theme=dark&ext=heatmap" width="400"/>
 
+---
+
 ### 📄 Take a Look at my Resume !
 
 <a href="https://drive.google.com/uc?export=download&id=1X3hW6b9uToupbuYhBEOBf7narkAhYw_8">
