@@ -3,9 +3,10 @@
 ### 🏅 LeetCode Stats
 <img src="https://leetcard.jacoblin.cool/midhunprahash?theme=dark&ext=heatmap" width="400"/>
 
-### 📄 Check out my Resume !
-<a href="https://github.com/midhunprahash/midhunprahash/raw/main/Resume_MidhunPrahash.pdf" download>
-  <img src="https://img.shields.io/badge/RESUME-%F0%9F%93%84-blue?style=for-the-badge" alt="resume"/>
+### 📄 My Resume
+
+<a href="https://drive.google.com/uc?export=download&id=1X3hW6b9uToupbuYhBEOBf7narkAhYw_8">
+  <img src="https://img.shields.io/badge/Download%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader" alt="resume"/>
 </a>
 
 I'm passionate about partnering with machines to solve real-world challenges, revolutionize industries, enhance efficiency, and drive innovation. Currently pursuing my **B.Tech in Artificial Intelligence & Data Science** at St. Joseph’s Institute of Technology (SGPA: 8.4). Expected graduation: 2027.
