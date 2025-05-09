@@ -3,7 +3,6 @@
 ### LeetCode Stats
 <img src="https://leetcard.jacoblin.cool/midhunprahash-ui?theme=dark&ext=heatmap" width="400"/>
 
-### GitHub Stats
 ## GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=midhunprahash-ui&show_icons=true&theme=dark&include_all_commits=true&count_private=true&token=YOUR_NEW_TOKEN_HERE"/>
