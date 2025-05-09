@@ -3,6 +3,12 @@
 ### LeetCode Stats
 <img src="https://leetcard.jacoblin.cool/midhunprahash?theme=dark&ext=heatmap" width="400"/>
 
+### GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=midhunprahash&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunprahash&layout=compact&langs_count=8&theme=dark"/>
+</div>
+
 ---
 
 ### Take a Look at my Resume !
@@ -75,4 +81,4 @@ I'm passionate about partnering with machines to solve real-world challenges, re
 
 ---
 
-*Let's collaborate on projects that make a difference!*  
+*Let's collaborate on projects that make a difference!*
