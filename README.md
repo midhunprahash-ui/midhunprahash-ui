@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Midhun !
-
+## Techstack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-ffcc00?style=for-the-badge&logo=langchain&logoColor=black)
+---
 ## LeetCode Stats
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/midhunprahash?theme=dark&ext=heatmap" width="400"/>
