@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/API-0052CC?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
----
 
 ## LeetCode Stats
 <div align="center">
