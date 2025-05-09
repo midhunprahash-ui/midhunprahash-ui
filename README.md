@@ -63,24 +63,29 @@ I'm passionate about partnering with machines to solve real-world challenges, re
 - **Excela 3.0 Alpha (Interactive Humanoid Robot)**
   - Integrated with ChatGPT API for real-time interaction and dynamic query resolution.
   - Demonstrated advanced NLP techniques in robotics.
+  - <a href="YOUR_REPO_LINK" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-blue?style=for-the-badge&logo=github"/></a>
 
 - **StudentAi (RAG & LLM)**
   - Built an AI-powered educational assistant using Retrieval-Augmented Generation (RAG).
   - Extracts key concepts from textbooks and generates ‘Why? What? How?’ explanations.
   - Tech Stack: FAISS, LangChain, OpenAI GPT, Streamlit.
+  - <a href="YOUR_REPO_LINK" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-blue?style=for-the-badge&logo=github"/></a>
 
 - **Predictive CrimeSpot Analysis & Deployment Suggestion App**
   - Crime trend prediction system using ARIMA time-series forecasting.
   - Dynamic risk-level mapping for real-time police deployment.
   - Tools: Python, Pandas, Interactive Dashboards.
+  - <a href="YOUR_REPO_LINK" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-blue?style=for-the-badge&logo=github"/></a>
 
 - **AI Integrated Smart Mirror**
   - AI-powered mirror with YOLO v8 object detection for real-time hair density tracking.
   - Delivered monthly insights for wellness engagement.
   - Tools: Python, OpenCV, YOLO v8.
+  - <a href="YOUR_REPO_LINK" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-blue?style=for-the-badge&logo=github"/></a>
 
 - **Flipkart Product Review Visualizer**
   - Scrapes product reviews, summarizes sentiment using NLP, and visualizes customer impressions.
+  - <a href="YOUR_REPO_LINK" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-blue?style=for-the-badge&logo=github"/></a>
 
 ---
 ## Skills
