@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Midhun !
 
-### 🏅 LeetCode Stats
+### LeetCode Stats
 <img src="https://leetcard.jacoblin.cool/midhunprahash?theme=dark&ext=heatmap" width="400"/>
 
 ---
 
-### 📄 Take a Look at my Resume !
+### Take a Look at my Resume !
 
 <a href="https://drive.google.com/uc?export=download&id=1X3hW6b9uToupbuYhBEOBf7narkAhYw_8">
   <img src="https://img.shields.io/badge/Download%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader" alt="resume"/>
@@ -13,13 +13,13 @@
 
 ---
 
-## 📝 Summary
+## Summary
 
 I'm passionate about partnering with machines to solve real-world challenges, revolutionize industries, enhance efficiency, and drive innovation. Currently pursuing my **B.Tech in Artificial Intelligence & Data Science** at St. Joseph’s Institute of Technology (SGPA: 8.4). Expected graduation: 2027.
 
 ---
 
-## 🚀 Projects
+## Projects
 
 - **Excela 3.0 Alpha (Interactive Humanoid Robot)**
   - Integrated with ChatGPT API for real-time interaction and dynamic query resolution.
@@ -44,14 +44,14 @@ I'm passionate about partnering with machines to solve real-world challenges, re
   - Scrapes product reviews, summarizes sentiment using NLP, and visualizes customer impressions.
 
 ---
-## 🛠️ Skills
+## Skills
 
 - **Programming:** Python, Java, SQL
 - **Data Science:** Time Series Forecasting, Data Visualization, Machine Learning
 - **Technologies:** Computer Vision, NLP, Basics of LLMs, ARIMA, APIs, LangChain, RAG
 - **Tools:** Pandas, NumPy, Matplotlib, Scikit-learn
 
-## 📜 Certifications
+## Certifications
 
 - [Data Science Methodology (IBM)](https://courses.cognitiveclass.ai/certificates/30720c84c6874a1783604880aefdb97a)
 - [Python 101 for Data Science (IBM)](https://courses.cognitiveclass.ai/certificates/202c332650394476875dcd912b5815b0)
