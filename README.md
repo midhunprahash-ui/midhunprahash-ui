@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Midhun !
 
 ### LeetCode Stats
-<img src="https://leetcard.jacoblin.cool/midhunprahash-ui?theme=dark&ext=heatmap" width="400"/>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/midhunprahash-ui?theme=dark&ext=heatmap" width="400"/>
+</div>
 
 ## GitHub Stats
 <div align="center">
