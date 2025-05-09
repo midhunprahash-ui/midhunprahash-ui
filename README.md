@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Midhun !
 
-### LeetCode Stats
+## LeetCode Stats
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/midhunprahash-ui?theme=dark&ext=heatmap" width="400"/>
 </div>
@@ -13,7 +13,7 @@
 
 ---
 
-### Take a Look at my Resume !
+## Take a Look at my Resume !
 
 <a href="https://drive.google.com/uc?export=download&id=1X3hW6b9uToupbuYhBEOBf7narkAhYw_8">
   <img src="https://img.shields.io/badge/Download%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader" alt="resume"/>
