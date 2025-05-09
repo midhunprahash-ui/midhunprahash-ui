@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/API-0052CC?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 ---
+
 ## LeetCode Stats
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/midhunprahash?theme=dark&ext=heatmap" width="400"/>
