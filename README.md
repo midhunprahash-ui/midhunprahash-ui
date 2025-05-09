@@ -75,4 +75,4 @@ I'm passionate about partnering with machines to solve real-world challenges, re
 
 ---
 
-⭐️ *Let's collaborate on projects that make a difference!*  
+*Let's collaborate on projects that make a difference!*  
