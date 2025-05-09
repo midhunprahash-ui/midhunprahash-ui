@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Midhun !
 
 ### LeetCode Stats
-<img src="https://leetcard.jacoblin.cool/midhunprahash?theme=dark&ext=heatmap" width="400"/>
+<img src="https://leetcard.jacoblin.cool/midhunprahash-ui?theme=dark&ext=heatmap" width="400"/>
 
 ### GitHub Stats
+## GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=midhunprahash&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunprahash&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=midhunprahash-ui&show_icons=true&theme=dark&include_all_commits=true&count_private=true&token=YOUR_NEW_TOKEN_HERE"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunprahash-ui&layout=compact&langs_count=8&theme=dark&token=YOUR_NEW_TOKEN_HERE"/>
 </div>
 
 ---
