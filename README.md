@@ -2,7 +2,7 @@
 
 ## LeetCode Stats
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/midhunprahash-ui?theme=dark&ext=heatmap" width="400"/>
+  <img src="https://leetcard.jacoblin.cool/midhunprahash?theme=dark&ext=heatmap" width="400"/>
 </div>
 
 ## GitHub Stats
