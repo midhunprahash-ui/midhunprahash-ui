@@ -11,6 +11,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunprahash-ui&layout=compact&langs_count=8&theme=dark&token=YOUR_NEW_TOKEN_HERE"/>
 </div>
 
+<p align="center" style="font-size: 14px; color: gray;">
+  📌 Note: The most used languages shown here reflect the languages required by my projects,<br/>
+  not necessarily the ones I am most proficient in.
+</p>
+
 ---
 
 ## Take a Look at my Resume !
