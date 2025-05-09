@@ -33,22 +33,6 @@
   <img src="https://leetcard.jacoblin.cool/midhunprahash?theme=dark&ext=heatmap" width="400"/>
 </div>
 
-## GitHub Stats
-
-<p align="center">
-  <!-- Left: GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=midhunprahash-ui&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true&card_width=300" height="150"/>
-
-  <!-- Center: Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=midhunprahash-ui&theme=radical&hide_border=false&card_width=300" height="150"/>
-
-  <!-- Right: Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunprahash-ui&layout=compact&theme=radical&hide_border=false&langs_count=6&card_width=300" height="150"/>
-</p>
-
-> [!NOTE]\
-> Top languages do not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
----
 
 ## Take a Look at my Resume !
 
