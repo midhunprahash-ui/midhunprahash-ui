@@ -34,10 +34,18 @@
 </div>
 
 ## GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=midhunprahash-ui&show_icons=true&theme=dark&include_all_commits=true&count_private=true&token=YOUR_NEW_TOKEN_HERE"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunprahash-ui&layout=compact&langs_count=8&theme=dark&token=YOUR_NEW_TOKEN_HERE"/>
-</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=midhunprahash-ui&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=midhunprahash-ui&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunprahash-ui&layout=compact&theme=radical&hide_border=false&langs_count=6" alt="Most Used Languages"/>
+</p>
 
 
 > [!NOTE]\
