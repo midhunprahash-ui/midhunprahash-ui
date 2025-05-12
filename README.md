@@ -35,10 +35,11 @@
 
 
 ## Take a Look at my Resume !
-
-<a href="https://drive.google.com/uc?export=download&id=1X3hW6b9uToupbuYhBEOBf7narkAhYw_8">
-  <img src="https://img.shields.io/badge/Download%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader" alt="resume"/>
-</a>
+<p align ="center">
+  <a href="https://drive.google.com/uc?export=download&id=1X3hW6b9uToupbuYhBEOBf7narkAhYw_8">
+    <img src="https://img.shields.io/badge/Download%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader" alt="resume"/>
+  </a>
+</p>
 
 ---
 
