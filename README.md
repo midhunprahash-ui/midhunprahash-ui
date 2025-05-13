@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Midhun !</h1>
+<h1 align="center">👋 HI ! I'M MIDHUN !</h1>
 
 <p align="center"> 
   Visitor count<br>
