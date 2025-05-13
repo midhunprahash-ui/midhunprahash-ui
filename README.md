@@ -7,8 +7,6 @@
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-![Naveen M K](https://github.com/naveen521kk/naveen521kk/assets/49693820/3dc837fe-52da-425e-b105-fe8b2e9638ea)
-
 ## Techstack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
