@@ -7,6 +7,33 @@
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
+### Stats 📈
+
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=midhunprahash-ui&show_icons=true&theme=dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=midhunprahash-ui&show_icons=true&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=midhunprahash-ui&show_icons=true&hide_border=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunprahash-ui&hide=Jupyter%20Notebook&layout=compact&theme=dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunprahash-ui&hide=Jupyter%20Notebook&layout=compact&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunprahash-ui&hide=Jupyter%20Notebook&layout=compact&hide_border=true" />
+</picture>
+
 ## Techstack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
