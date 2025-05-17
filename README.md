@@ -115,4 +115,7 @@ I'm passionate about partnering with machines to solve real-world challenges, re
   - Recognized for innovative use of ARIMA algorithm and real-time analytics.
 
 ---
+## Connect with me
+
+- 📧 [midhuntech2023@gmail.com](mailto:midhuntech2023@gmail.com)
 
