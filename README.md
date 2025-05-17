@@ -116,10 +116,13 @@ I'm passionate about partnering with machines to solve real-world challenges, re
 
 ---
 
-## Connect with me
-
-- 📧 [midhuntech2023@gmail.com](mailto:midhuntech2023@gmail.com)
-- 🔗 [LinkedIn](http://www.linkedin.com/in/midhun-prahash-14ab24292/)
-
+<p align="center">
+  <a href="mailto:midhuntech2023@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="http://www.linkedin.com/in/midhun-prahash-14ab24292/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 ---
 
