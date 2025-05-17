@@ -1,5 +1,7 @@
 <h1 align="center">HI ! I'M MIDHUN !</h1>
 
+---
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/midhunprahash-ui/count.svg" />
