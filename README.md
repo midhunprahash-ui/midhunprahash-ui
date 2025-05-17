@@ -4,6 +4,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/midhunprahash-ui/count.svg" />
 </p>
+---
 
 ## Github Stats
 
