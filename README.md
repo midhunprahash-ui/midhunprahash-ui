@@ -108,7 +108,7 @@ I'm passionate about partnering with machines to solve real-world challenges, re
 - [SQL Basics (Skillrack)](https://www.skillrack.com/faces/free/certificate.xhtml?t=cert&id=482693&key=FFY)
 
 ---
-## Achievements
+## Achievements🎉
 
 - **Runner-Up (Top 2 out of 800+ teams)** at **Thoothukudi District Police Hackathon (Cyber Hackathon 2025)**
   - Won ₹25,000 for a data-driven crime prediction and police deployment solution.
