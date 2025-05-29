@@ -8,7 +8,7 @@
 </p>
 
 
-## Github Stats
+## Github Statss
 
 
 <picture>
