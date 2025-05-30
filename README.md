@@ -57,7 +57,7 @@ I'm passionate about partnering with machines to solve real-world challenges, re
 
 ---
 
-## My Projects
+## Projects
 
 - **Excela 3.0 Alpha (Interactive Humanoid Robot)**
   - Integrated with ChatGPT API for real-time interaction and dynamic query resolution.
