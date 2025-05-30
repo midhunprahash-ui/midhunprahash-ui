@@ -92,7 +92,7 @@ I'm passionate about partnering with machines to solve real-world challenges, re
   <a href="https://github.com/midhunprahash-ui/Flipkart_review_analyzer.git" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-blue?style=for-the-badge&logo=github"/></a>
 
 ---
-## My Skills
+## Skills
 
 - **Programming:** Python, Java, SQL
 - **Data Science:** Time Series Forecasting, Data Visualization, Machine Learning
