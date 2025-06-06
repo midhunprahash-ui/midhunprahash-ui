@@ -99,6 +99,8 @@ I'm passionate about partnering with machines to solve real-world challenges, re
 - **Technologies:** Computer Vision, NLP, Basics of LLMs, ARIMA, APIs, LangChain, RAG
 - **Tools:** Pandas, NumPy, Matplotlib, Scikit-learn
 
+---
+
 ## Certifications
 
 - [Data Science Methodology (IBM)](https://courses.cognitiveclass.ai/certificates/30720c84c6874a1783604880aefdb97a)
