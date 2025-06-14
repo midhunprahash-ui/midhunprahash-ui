@@ -39,7 +39,7 @@
 
 ---
 
-## Take a Look at my Resume !
+## Take a Look at my Resume
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1j6bxWV-6fqmaL5eGzjep8wgveOoQJXJO/view?usp=share_link">
