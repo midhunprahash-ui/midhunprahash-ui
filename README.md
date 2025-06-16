@@ -1,4 +1,4 @@
-<h1 align="center"> M I D H U N   P R A H A S H </h1>
+<h1 align="center"> M I D H U N  </>  P R A H A S H </h1>
 
 
 ## Take a Look at my Resume !
