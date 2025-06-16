@@ -1,42 +1,5 @@
 <h1 align="center"> M I D H U N   P R A H A S H </h1>
 
-<p align="center"> 
-  Visitor count<br>
-  
-  <img src="https://profile-counter.glitch.me/midhunprahash-ui/count.svg" />
-</p>
-
-## Github Stats
-
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=midhunprahash-ui&show_icons=true&theme=dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=midhunprahash-ui&show_icons=true&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=midhunprahash-ui&show_icons=true&hide_border=true" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunprahash-ui&hide=Jupyter%20Notebook&layout=compact&theme=dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunprahash-ui&hide=Jupyter%20Notebook&layout=compact&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunprahash-ui&hide=Jupyter%20Notebook&layout=compact&hide_border=true" />
-</picture>
----
-
-> [!NOTE]\
-> Top languages do not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
-
 ---
 
 ## Take a Look at my Resume !
