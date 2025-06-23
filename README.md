@@ -1,7 +1,7 @@
 <h1 align="center"> M I D H U N  </>  P R A H A S H </h1>
 
 
-## My Portfolio - [Portfolio](https://midhunsportfolio.netlify.app)
+## My Portfolio - [View](https://midhunsportfolio.netlify.app)
 
 ## Take a Look at my Resume !
 <p align="left">
