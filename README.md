@@ -79,5 +79,5 @@ I'm passionate about partnering with machines to solve real-world challenges, re
 ---
 ## You can Connect with me !
 
-- 📧 [midhuntech2023@gmail.com](mailto:midhuntech2023@gmail.com)
+- 📩 [midhuntech2023@gmail.com](mailto:midhuntech2023@gmail.com)
 - 🔗 [LinkedIn](http://www.linkedin.com/in/midhun-prahash-14ab24292/)
