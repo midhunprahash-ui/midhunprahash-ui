@@ -1,15 +1,8 @@
-<h1 align="center"> M I D H U N  </>  P R A H A S H </h1>
-
+<h1 align="center"> M I D H U N    P R A H A S H </h1>
 
 ## My Portfolio - [View](https://midhunsportfolio.netlify.app)
 
-## Take a Look at my Resume !
-<p align="left">
-  <a href="https://drive.google.com/file/d/1j6bxWV-6fqmaL5eGzjep8wgveOoQJXJO/view?usp=share_link">
-  </a>
-</p>
-
-
+## My Resume - [View](https://drive.google.com/file/d/1j6bxWV-6fqmaL5eGzjep8wgveOoQJXJO/view)
 
 ---
 
