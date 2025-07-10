@@ -2,7 +2,7 @@
 
 ## My Portfolio - [View](https://midhunsportfolio.netlify.app)
 
-## My Resume - [View](https://drive.google.com/file/d/1j6bxWV-6fqmaL5eGzjep8wgveOoQJXJO/view)
+## My Resume - [View](https://drive.google.com/file/d/1v45hi59f-w-8vrCR4huf27air4uJTLo0/view?usp=share_link)
 
 ---
 
