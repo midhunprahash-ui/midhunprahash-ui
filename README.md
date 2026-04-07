@@ -1,4 +1,4 @@
-<h1 align="center"> M I D H U N   P R A H A S H SR </h1>
+<h1 align="center"> M I D H U N   P R A H A S H S R </h1>
 
 ## My Portfolio - [View](https://midhunsportfolio.netlify.app)
 
