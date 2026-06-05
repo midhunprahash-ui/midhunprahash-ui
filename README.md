@@ -1,78 +1,110 @@
-<h1 align="center"> M I D H U N   P R A H A S H S R </h1>
+# Hi, I'm Midhun Prahash SR
 
-## My Portfolio - [View](https://midhunsportfolio.netlify.app)
+AI/ML engineer focused on retrieval-augmented generation, knowledge graphs, NLP systems, and production backend infrastructure for applied AI products.
 
-## My Resume - [View](https://drive.google.com/file/d/1v45hi59f-w-8vrCR4huf27air4uJTLo0/view?usp=share_link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-midhunprahash-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/midhunprahash)
+[![GitHub](https://img.shields.io/badge/GitHub-midhunprahash--ui-181717?style=flat&logo=github&logoColor=white)](https://github.com/midhunprahash-ui)
+[![Email](https://img.shields.io/badge/Email-midhuntech2023%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:midhuntech2023@gmail.com)
 
----
+## About Me
 
-## Summary
+I am a B.Tech Artificial Intelligence and Data Science student at St. Joseph's Institute of Technology, with hands-on experience building RAG systems, GraphRAG pipelines, semantic search workflows, voice AI microservices, and ML applications.
 
-I'm passionate about partnering with machines to solve real-world challenges, revolutionize industries, enhance efficiency, and drive innovation. Currently pursuing my **B.Tech in Artificial Intelligence & Data Science** at St. Joseph’s Institute of Technology (SGPA: 8.4). Expected graduation: 2027.
+My work sits at the intersection of machine learning, information retrieval, backend engineering, and applied AI. I enjoy building systems that move beyond prototypes: structured retrieval pipelines, vector databases, scalable APIs, access-controlled knowledge bases, and LLM workflows grounded in real data.
 
----
+## What I Work On
 
-## Projects
+- Retrieval-Augmented Generation (RAG), GraphRAG, hybrid search, and semantic retrieval
+- LLM orchestration, prompt engineering, embeddings, reranking, and hallucination reduction
+- Knowledge graphs, taxonomy normalization, vector search, and skill extraction
+- FastAPI backends, PostgreSQL, Supabase, pgvector, FAISS, Neo4j, and Docker
+- NLP, sentiment analysis, fuzzy matching, classification, and model evaluation
+- Real-time AI services using ASR, TTS, WebSockets, and streaming responses
 
-- **Excela 3.0 Alpha (Interactive Humanoid Robot)**
-  - Integrated with ChatGPT API for real-time interaction and dynamic query resolution.
-  - Demonstrated advanced NLP techniques in robotics.  
-  <br>
-  <a href="https://github.com/midhunprahash-ui/AI-Voice-Assistant.git" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-blue?style=for-the-badge&logo=github"/></a>
+## Technical Skills
 
-- **StudentAi (RAG & LLM)**
-  - Built an AI-powered educational assistant using Retrieval-Augmented Generation (RAG).
-  - Extracts key concepts from textbooks and generates ‘Why? What? How?’ explanations.
-  - Tech Stack: FAISS, LangChain, OpenAI GPT, Streamlit.  
-  <br>
-  <a href="https://github.com/midhunprahash-ui/Student.Ai.git" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-blue?style=for-the-badge&logo=github"/></a>
+**Languages:** Python, Java, SQL
 
-- **Predictive CrimeSpot Analysis & Deployment Suggestion App**
-  - Crime trend prediction system using ARIMA time-series forecasting.
-  - Dynamic risk-level mapping for real-time police deployment.
-  - Tools: Python, Pandas, Interactive Dashboards.  
-  <br>
-  <a href="https://github.com/midhunprahash-ui/crimespot-analysis_and_predictive-police-deployment.git" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-blue?style=for-the-badge&logo=github"/></a>
+**Machine Learning:** Scikit-learn, PyTorch, feature engineering, supervised learning, classification, model evaluation, threshold tuning
 
-- **AI Integrated Smart Mirror**
-  - AI-powered mirror with YOLO v8 object detection for real-time hair density tracking.
-  - Delivered monthly insights for wellness engagement.
-  - Tools: Python, OpenCV, YOLO v8.  
-  <br>
-  <a href="https://github.com/midhunprahash-ui/Hair_volume_analyzer.git" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-blue?style=for-the-badge&logo=github"/></a>
+**NLP and LLM Systems:** RAG, GraphRAG, semantic search, hybrid search, information retrieval, embeddings, reranking, prompt engineering, OpenAI API, Google Gemini, Sentence Transformers, LangChain, LlamaIndex
 
-- **Flipkart Product Review Visualizer**
-  - Scrapes product reviews, summarizes sentiment using NLP, and visualizes customer impressions.  
-  <br>
-  <a href="https://github.com/midhunprahash-ui/Flipkart_review_analyzer.git" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-blue?style=for-the-badge&logo=github"/></a>
+**Data and Infrastructure:** FastAPI, PostgreSQL, Supabase, pgvector, FAISS, Neo4j, knowledge graphs, vector indexes, WebSockets, Server-Sent Events, Docker, Linux
 
----
-## Skills
+**Applied AI Tooling:** Pandas, NumPy, NLTK, VADER, TextBlob, Selenium, Pytesseract, Matplotlib, Seaborn, Git, GitHub, GitLab
 
-- **Programming:** Python, Java, SQL
-- **Data Science:** Time Series Forecasting, Data Visualization, Machine Learning
-- **Technologies:** Computer Vision, NLP, Basics of LLMs, ARIMA, APIs, LangChain, RAG
-- **Tools:** Pandas, NumPy, Matplotlib, Scikit-learn
+## Experience
 
----
+**AI Engineering Intern - Cospin**  
+Jan 2026 - Mar 2026
 
-## Certifications
+- Built Python and FastAPI voice microservices for real-time speech ingestion, LLM orchestration, transcript persistence, and audio delivery.
+- Engineered streaming ASR and TTS services using Google Speech-to-Text v2, Google Cloud Text-to-Speech, WebSockets, containers, and low-latency inference workflows.
 
-- [Data Science Methodology (IBM)](https://courses.cognitiveclass.ai/certificates/30720c84c6874a1783604880aefdb97a)
-- [Python 101 for Data Science (IBM)](https://courses.cognitiveclass.ai/certificates/202c332650394476875dcd912b5815b0)
-- [Data Science A-Z (Udemy)](https://ude.my/UC-bc67920a-0176-426d-862b-3d31a85efib)
-- [SQL and Relational Databases 101 (IBM)](https://courses.cognitiveclass.ai/certificates/93085e4a9b8b4fed872d8eb5a9f816d0)
-- [SQL Basics (Skillrack)](https://www.skillrack.com/faces/free/certificate.xhtml?t=cert&id=482693&key=FFY)
+**AI/ML Intern - Lightcast**  
+Sep 2025 - Jan 2026
 
----
-## Achievements
+- Built a GraphRAG-based hybrid search and skill normalization pipeline for extracting professional skills from unstructured job descriptions.
+- Designed a Neo4j knowledge graph with aliases, category relationships, subcategory relationships, and vector indexes for semantic retrieval.
+- Implemented a multi-stage RAG workflow using Gemini 2.5 Flash and all-mpnet-base-v2 embeddings to generate structured JSON outputs and reduce hallucinations.
 
-- **Runner-Up (Top 2 out of 800+ teams)** at **Thoothukudi District Police Hackathon (Cyber Hackathon 2025)**
-  - Won ₹25,000 for a data-driven crime prediction and police deployment solution.
-  - Recognized for innovative use of ARIMA algorithm and real-time analytics.
+**Machine Learning Intern - Orion Governance**  
+Jun 2025 - Jul 2025
 
----
-## Connect with me
+- Developed a fuzzy string matching-integrated Random Forest classifier using Scikit-learn and Pandas, achieving 89% accuracy for unauthorized username detection.
 
-- 📩 [midhuntech2023@gmail.com](mailto:midhuntech2023@gmail.com)
-- 🔗 [LinkedIn](http://www.linkedin.com/in/midhun-prahash-14ab24292/)
+## Featured Projects
+
+### UniGuide
+
+**Production RAG system** using FastAPI, PostgreSQL, Supabase, pgvector, JWT, RLS, and hybrid retrieval.
+
+- Built a multi-tenant RAG backend with vector search, full-text search, BM25, reranking, semantic caching, and streaming responses.
+- Designed 50+ SQL migrations, retrieval RPCs, vector indexes, chunk schemas, and organization-scoped access controls.
+
+### StudentAI
+
+**RAG learning assistant** using Python, FAISS, Sentence Transformers, OpenAI, Pytesseract, and prompt engineering.
+
+- Built an end-to-end educational RAG pipeline with OCR ingestion, semantic chunking, embeddings, FAISS indexing, dense retrieval, and grounded prompting.
+- Generated structured concept explanations and retrieval-grounded questions aligned to source content.
+
+### Username Matcher
+
+**ML security application** using Python, Scikit-learn, Pandas, Django, and fuzzy matching.
+
+- Built and deployed an unauthorized username detection workflow using fuzzy string matching and a Random Forest classifier with 89% accuracy.
+- Integrated the model into a Django web application for practical usage.
+
+### Review Analyzer
+
+**Sentiment analysis system** using Selenium, NLTK, VADER, TextBlob, Matplotlib, and Seaborn.
+
+- Automated web scraping, sentiment classification, and visualization of product reviews.
+- Summarized positive, negative, and neutral sentiment distributions using NLP and data visualization workflows.
+
+## Publication
+
+Midhun Prahash SR, Rhea Alphonsa Jose, and Sam V. George. "Enhancing Transformer-Based Hidden Suicidal Intention Detection with Sequential Modeling and Psycholinguistic Feature Fusion." 2026 7th International Conference on Innovative Trends in Information Technology (ICITIIT), IEEE, 2026.
+
+## Patent
+
+**Application No. 202541076262**  
+Intelligent Agent for Personalized and Inclusive Learning Support System for Adaptive Learning with Agentic Strategies.
+
+## Achievement
+
+- Runner-up at the 2025 Thoothukudi District Police Cyber Hackathon, placing in the top 2 out of 800+ teams.
+
+## Education
+
+**St. Joseph's Institute of Technology**  
+B.Tech in Artificial Intelligence and Data Science  
+Expected 2027 | CGPA: 8.4/10
+
+## GitHub Stats
+
+![Midhun's GitHub stats](https://github-readme-stats.vercel.app/api?username=midhunprahash-ui&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=midhunprahash-ui&layout=compact&theme=default&hide_border=true)
+
