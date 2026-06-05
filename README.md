@@ -102,9 +102,4 @@ Intelligent Agent for Personalized and Inclusive Learning Support System for Ada
 B.Tech in Artificial Intelligence and Data Science  
 Expected 2027 | CGPA: 8.4/10
 
-## GitHub Stats
-
-![Midhun's GitHub stats](https://github-readme-stats.vercel.app/api?username=midhunprahash-ui&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=midhunprahash-ui&layout=compact&theme=default&hide_border=true)
 
