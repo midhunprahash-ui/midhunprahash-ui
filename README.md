@@ -3,8 +3,8 @@
 AI/ML engineer focused on retrieval-augmented generation, knowledge graphs, NLP systems, and production backend infrastructure for applied AI products.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-midhunprahash-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/midhunprahash)
-[![GitHub](https://img.shields.io/badge/GitHub-midhunprahash--ui-181717?style=flat&logo=github&logoColor=white)](https://github.com/midhunprahash-ui)
 [![Email](https://img.shields.io/badge/Email-midhuntech2023%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:midhuntech2023@gmail.com)
+
 
 ## About Me
 
