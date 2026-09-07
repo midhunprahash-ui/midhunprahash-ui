@@ -1,4 +1,4 @@
-### # I'm Midhun 👋
+# I'm Midhun 👋
 
 ## I Find Problems. I Build Solutions.
 
